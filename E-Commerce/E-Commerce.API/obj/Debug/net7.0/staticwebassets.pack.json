@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Decagon PC\\source\\repos\\E-Commerce\\E-Commerce.API\\wwwroot\\Images\\07997b25-0f1f-4b4b-878e-b548ad732acf_Screenshot (5).png",
+      "PackagePath": "staticwebassets\\Images\\07997b25-0f1f-4b4b-878e-b548ad732acf_Screenshot (5).png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.E-Commerce.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.E-Commerce.API.props",
+      "PackagePath": "build\\E-Commerce.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.E-Commerce.API.props",
+      "PackagePath": "buildMultiTargeting\\E-Commerce.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.E-Commerce.API.props",
+      "PackagePath": "buildTransitive\\E-Commerce.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,7 @@
+2024-06-15 11:22:51.538 +01:00 [INF] Starting up the application
+2024-06-15 12:19:24.536 +01:00 [INF] Starting up the application
+2024-06-15 12:19:45.182 +01:00 [INF] Starting up the application
+2024-06-15 12:29:02.037 +01:00 [INF] Starting up the application
+2024-06-15 16:20:18.147 +01:00 [INF] Starting up the application
+2024-06-15 16:28:17.304 +01:00 [INF] Starting up the application
+2024-06-15 16:30:01.767 +01:00 [INF] Starting up the application
