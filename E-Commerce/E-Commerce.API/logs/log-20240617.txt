@@ -1,0 +1,23 @@
+2024-06-17 16:31:54.455 +01:00 [INF] Starting up the application
+2024-06-17 16:31:55.422 +01:00 [FTL] Application start-up failed
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at E_Commerce.API.Program.Main(String[] args) in C:\Users\Decagon PC\source\repos\E-Commerce\E-Commerce.API\Program.cs:line 98
+2024-06-17 16:32:32.946 +01:00 [INF] Starting up the application
+2024-06-17 16:32:33.318 +01:00 [FTL] Application start-up failed
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at E_Commerce.API.Program.Main(String[] args) in C:\Users\Decagon PC\source\repos\E-Commerce\E-Commerce.API\Program.cs:line 98
+2024-06-17 16:35:59.310 +01:00 [INF] Starting up the application
+2024-06-17 16:46:38.255 +01:00 [INF] Starting up the application
+2024-06-17 17:09:04.086 +01:00 [INF] Starting up the application

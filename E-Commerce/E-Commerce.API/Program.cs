@@ -92,6 +92,9 @@ namespace E_Commerce.API
 
                 builder.Services.AddScoped<IAuthRepository, AuthRepository>();
 
+                // Register ICartRepository
+                builder.Services.AddScoped<ICartRepository, CartRepository>(); 
+
 
 
 
