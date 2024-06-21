@@ -10,6 +10,8 @@ using Serilog.Events;
 using Serilog;
 using System.Text;
 using Microsoft.AspNetCore.Hosting;
+using System.Net.Http.Headers;
+using E_Commerce.API.Service;
 
 namespace E_Commerce.API
 {
@@ -93,7 +95,18 @@ namespace E_Commerce.API
                 builder.Services.AddScoped<IAuthRepository, AuthRepository>();
 
                 // Register ICartRepository
-                builder.Services.AddScoped<ICartRepository, CartRepository>(); 
+                builder.Services.AddScoped<ICartRepository, CartRepository>();
+
+                // Add HttpClient for Flutterwave
+                builder.Services.AddHttpClient("Flutterwave", client =>
+                {
+                    client.BaseAddress = new Uri("https://api.flutterwave.com/v3/");
+                    client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+                });
+
+                // Register services for Flutterwave
+                builder.Services.AddScoped<IFlutterwavePaymentRepository, FlutterwavePaymentRepository>();
+                builder.Services.AddScoped<IPaymentService, PaymentService>();
 
 
 

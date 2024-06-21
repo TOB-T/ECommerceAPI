@@ -1,4 +1,4 @@
-﻿namespace E_Commerce.API.DataModels
+﻿namespace E_Commerce.API.ServiceModels
 {
     public class Cart
     {

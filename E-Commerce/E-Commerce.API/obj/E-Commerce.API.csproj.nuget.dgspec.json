@@ -49,6 +49,10 @@
               "target": "Package",
               "version": "[13.0.1, )"
             },
+            "Flutterwave.Net": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[7.0.18, )"
@@ -86,6 +90,10 @@
             "Serilog.AspNetCore": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[44.13.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

@@ -1,4 +1,4 @@
-﻿using E_Commerce.API.DataModels;
+﻿using E_Commerce.API.ServiceModels;
 
 namespace E_Commerce.API.Interfaces
 {

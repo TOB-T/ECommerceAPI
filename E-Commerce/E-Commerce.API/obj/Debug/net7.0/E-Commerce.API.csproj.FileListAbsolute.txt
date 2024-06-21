@@ -94,3 +94,6 @@ C:\Users\Decagon PC\source\repos\E-Commerce\E-Commerce.API\bin\Debug\net7.0\Seri
 C:\Users\Decagon PC\source\repos\E-Commerce\E-Commerce.API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
 C:\Users\Decagon PC\source\repos\E-Commerce\E-Commerce.API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
 C:\Users\Decagon PC\source\repos\E-Commerce\E-Commerce.API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\Decagon PC\source\repos\E-Commerce\E-Commerce.API\bin\Debug\net7.0\flutterwave-dotnet.dll
+C:\Users\Decagon PC\source\repos\E-Commerce\E-Commerce.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Decagon PC\source\repos\E-Commerce\E-Commerce.API\bin\Debug\net7.0\Stripe.net.dll

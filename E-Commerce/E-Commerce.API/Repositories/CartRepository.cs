@@ -2,13 +2,13 @@
 using E_Commerce.API.Interfaces;
 
 using E_Commerce.API.Data;
-using E_Commerce.API.DataModels;
 using E_Commerce.API.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using System;
 using System.Linq;
 using System.Threading.Tasks;
+using E_Commerce.API.ServiceModels;
 
 namespace E_Commerce.API.Repositories
 {

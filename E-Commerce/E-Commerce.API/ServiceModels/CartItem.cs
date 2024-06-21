@@ -1,7 +1,8 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
+using E_Commerce.API.DataModels;
 
-namespace E_Commerce.API.DataModels
+namespace E_Commerce.API.ServiceModels
 {
     public class CartItem
     {

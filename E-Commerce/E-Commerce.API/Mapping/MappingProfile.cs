@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using E_Commerce.API.DataModels;
 using E_Commerce.API.Dtos;
+using E_Commerce.API.ServiceModels;
 
 namespace E_Commerce.API.Mapping
 {
